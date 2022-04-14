@@ -1,0 +1,23 @@
+.column1 {
+  width: 300px;
+  float: left;
+  background-color: red;
+  border: 2px solid blue;
+  padding: 5px;
+}
+
+.column2 {
+  width: 300px;
+  float: left;
+  background-color: orange;
+  border: 2px solid green;
+  padding: 10px;
+}
+
+.column3 {
+  width: 300px;
+  float: left;
+  background-color: yellow;
+  border: 2px solid blueviolet;
+  padding: 15px;
+}
